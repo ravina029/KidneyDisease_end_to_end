@@ -1,0 +1,9 @@
+artifacts_root: artifacts
+
+
+
+data_ingestion: #always make sure for the indentations otherwise it will give an error.
+  root_dir: artifacts/data_ingestion
+  source_URL: https://drive.google.com/file/d/14FM_bM3P21prlp1zlLGELhxuLZvnMaqi/view
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
