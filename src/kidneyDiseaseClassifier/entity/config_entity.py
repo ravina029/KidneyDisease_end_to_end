@@ -21,3 +21,15 @@ class PrepareBaseModelConfig:
     params_classes: int
 
 
+@dataclass(frozen=True)  #this is not python class but dataclass, here you can define the veriables without using self keyword.
+class TrainingConfig:
+    root_dir: Path
+    trained_model_path: Path
+    updated_base_model_path: Path
+    training_data: Path
+    params_epochs: int
+    params_batch_size: int
+    params_is_augmentation: bool
+    params_image_size: list
+
+
