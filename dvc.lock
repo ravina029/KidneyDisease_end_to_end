@@ -97,8 +97,8 @@ stages:
       size: 639
     - path: src/kidneyDiseaseClassifier/pipeline/stage_04_model_evaluation.py
       hash: md5
-      md5: 05bad398e8d561e24523c0bf693add6b
-      size: 933
+      md5: 45974ef87daa942f3b890f1895b8a3fa
+      size: 932
     params:
       params.yaml:
         BATCH_SIZE: 16
