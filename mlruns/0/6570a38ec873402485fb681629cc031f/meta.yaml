@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ravina/Desktop/deep_end_to_end/mlruns/0/6570a38ec873402485fb681629cc031f/artifacts
+end_time: 1708362637314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6570a38ec873402485fb681629cc031f
+run_name: treasured-zebra-960
+run_uuid: 6570a38ec873402485fb681629cc031f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708362631005
+status: 3
+tags: []
+user_id: ravina
