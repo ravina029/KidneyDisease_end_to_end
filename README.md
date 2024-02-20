@@ -25,11 +25,11 @@ https://github.com/ravina029/KidneyDisease_end_to_end/tree/main
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -p kidneyvenv python=3.8 -y ,exactly python=3.8.18
+conda create -p kidneyvenv python=3.8 -y ,#exactly python=3.8.18
 ```
 
 ```bash
-conda activate /Users/ravina/Desktop/deep_end_to_end/kidneyvenv
+conda activate kidneyvenv
 ```
 
 
@@ -53,8 +53,9 @@ open up you local host and port
 
 ## MLflow
 
-[Documentation](https://mlflow.org/docs/latest/index.html)
-
+MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. 
+It is designed to simplify the process of tracking experiments, 
+packaging code into reproducible runs, and sharing and deploying models.
 
 ##### cmd
 - mlflow ui
@@ -94,7 +95,9 @@ export MLFLOW_TRACKING_PASSWORD=221d4e3a527ff8b9aef06e059d7efc4e89963e11
 
 	#with specific access
 
-	1. EC2 access : It is virtual machine
+	1. EC2 access : It is virtual machine,
+ 	Accessing an Amazon EC2 instance involves connecting to it remotely, typically using Secure Shell (SSH) for 
+  	Linux instances or Remote Desktop Protocol (RDP) for Windows instances.
 
 	2. ECR: Elastic Container registry to save your docker image in aws
 
@@ -160,7 +163,7 @@ export MLFLOW_TRACKING_PASSWORD=221d4e3a527ff8b9aef06e059d7efc4e89963e11
 
 
 
-## About MLflow 
+## MLflow 
 MLflow
 
  - Its Production Grade
