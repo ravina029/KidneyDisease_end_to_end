@@ -1,4 +1,4 @@
-##End to end machine learning project using mlflow
+##End to end deep learning project using mlflow
 
 # About Project
 The project presents a web-based application for kidney disease prediction using transfer learning. The application is built using Flask, a Python web framework, and leverages a trained kidney disease classifier model. Users can interact with the system by uploading medical images through a user-friendly interface. The backend processes the uploaded images, makes predictions using a pre-trained model, and returns the results.
