@@ -17,8 +17,8 @@ The project presents a web-based application for kidney disease prediction using
 
 
 
-# How to run?
-### STEPS:
+# Steps to run?
+
 
 Clone the repository
 
