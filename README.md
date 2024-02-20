@@ -171,4 +171,5 @@ MLflow
  - Logging & tagging your model
 
 # dataset contains 203 images belonging two classes
+this image dataset is relatively small due to limited processing power of local machine
  https://drive.google.com/file/d/15EoQXCKhMYBU8mjxnpVebni-JAZmtezo/view?usp=sharing
