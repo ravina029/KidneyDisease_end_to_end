@@ -173,3 +173,6 @@ MLflow
 # dataset contains 203 images belonging two classes
 The model was trained on a local machine, leading to a relatively small image dataset due to the limited processing power of the local machine.
  https://drive.google.com/file/d/15EoQXCKhMYBU8mjxnpVebni-JAZmtezo/view?usp=sharing
+
+# Link for the live demo of this project
+https://www.youtube.com/watch?v=8diI4cReACY
