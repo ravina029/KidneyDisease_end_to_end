@@ -13,11 +13,6 @@ To provide better user experience a web application is built using Flask, a Pyth
 # Data contains 203 images belonging two classes
 The model was trained on a local machine, with relatively small dataset due to the limited processing power of the local machine.
 dataset link: https://drive.google.com/file/d/15EoQXCKhMYBU8mjxnpVebni-JAZmtezo/view?usp=sharing
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 1d0faf9 (readme)
 
 ## Workflows
 1. Update config.yaml
