@@ -6,7 +6,7 @@
 
 
 # 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
-In this project, I utilized CNN and Transfer Learning techniques to develop a model capable of classifying kedney images into 2 different categories, i.e keidney with disease and without disease. I leveraged the power of Convolutional Neural Networks (CNN), a class of deep neural networks, to process and analyse images. By implementing Transfer Learning with VGG16, a pre-trained deep learning model, I fine-tuned the model to classify kidney images of flowers with "accuracy": 0.9666666388511658 and "loss": 0.12115874141454697.
+In this project, I utilized CNN and Transfer Learning techniques to develop a model capable of classifying kedney images into 2 different categories, i.e kidney with tumor and normal kidney. I leveraged the power of Convolutional Neural Networks (CNN), a class of deep neural networks, to process and analyse images. By implementing Transfer Learning with VGG16, a pre-trained deep learning model, I fine-tuned the model to classify kidney images of flowers with "accuracy": 0.9666666388511658 and "loss": 0.12115874141454697.
 
 To provide better user experience a web application is built using Flask, a Python web framework and a trained CNN classifier model. Users can interact with the system by uploading medical images through a user-friendly interface. The backend processes the uploaded images, makes predictions using a pre-trained model, and returns the results.
 
