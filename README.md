@@ -10,7 +10,9 @@ In this project, I utilized CNN and Transfer Learning techniques to develop a mo
 
 To provide better user experience a web application is built using Flask, a Python web framework and a trained CNN classifier model. Users can interact with the system by uploading medical images through a user-friendly interface. The backend processes the uploaded images, makes predictions using a pre-trained model, and returns the results.
 
-
+# Data contains 203 images belonging two classes
+The model was trained on a local machine, with relatively small dataset due to the limited processing power of the local machine.
+dataset link: https://drive.google.com/file/d/15EoQXCKhMYBU8mjxnpVebni-JAZmtezo/view?usp=sharing
 
 ## Workflows
 1. Update config.yaml
@@ -182,9 +184,7 @@ MLflow
  - Trace all of your expriements
  - Logging & tagging your model
 
-# dataset contains 203 images belonging two classes
-The model was trained on a local machine, with relatively small dataset due to the limited processing power of the local machine.
- https://drive.google.com/file/d/15EoQXCKhMYBU8mjxnpVebni-JAZmtezo/view?usp=sharing
+
 
 # Link for the live demo of this project
 https://www.youtube.com/watch?v=8diI4cReACY
