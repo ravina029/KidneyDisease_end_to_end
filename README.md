@@ -1,4 +1,4 @@
-## End to end Deep learning project using mlflow
+## End to end Kidney disease classification project using mlflow
 
 ![Alt Text](img1.png)
 
