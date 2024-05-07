@@ -1,11 +1,16 @@
-##End to end deep learning project using mlflow
+## End to end Deep learning project using mlflow
+
+![Alt Text](img1.png)
+
+![Alt Text](img2.png)
+
 
 # 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
-
-In this project, I utilized CNN and Transfer Learning techniques to develop a model capable of classifying kedney images into 2 different categories, i.e keidney with disease and without disease.
-I leveraged the power of Convolutional Neural Networks (CNN), a class of deep neural networks, to process and analyse images. By implementing Transfer Learning with VGG16, a pre-trained deep learning model, I fine-tuned the model to classify kidney images of flowers with "accuracy": 0.9666666388511658 and "loss": 0.12115874141454697.
+In this project, I utilized CNN and Transfer Learning techniques to develop a model capable of classifying kedney images into 2 different categories, i.e keidney with disease and without disease. I leveraged the power of Convolutional Neural Networks (CNN), a class of deep neural networks, to process and analyse images. By implementing Transfer Learning with VGG16, a pre-trained deep learning model, I fine-tuned the model to classify kidney images of flowers with "accuracy": 0.9666666388511658 and "loss": 0.12115874141454697.
 
 To provide better user experience a web application is built using Flask, a Python web framework and a trained CNN classifier model. Users can interact with the system by uploading medical images through a user-friendly interface. The backend processes the uploaded images, makes predictions using a pre-trained model, and returns the results.
+
+
 
 ## Workflows
 1. Update config.yaml
@@ -22,7 +27,7 @@ To provide better user experience a web application is built using Flask, a Pyth
 
 
 # How to run?
-
+### STEPS:
 
 Clone the repository
 
@@ -178,7 +183,7 @@ MLflow
  - Logging & tagging your model
 
 # dataset contains 203 images belonging two classes
-The model was trained on a local machine, leading to a relatively small image dataset due to the limited processing power of the local machine.
+The model was trained on a local machine, with relatively small dataset due to the limited processing power of the local machine.
  https://drive.google.com/file/d/15EoQXCKhMYBU8mjxnpVebni-JAZmtezo/view?usp=sharing
 
 # Link for the live demo of this project
